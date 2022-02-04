@@ -103,7 +103,7 @@ form {
     margin-top: 1rem;
     margin-bottom: 2rem;
     overflow-y: auto;
-    word-break: break-all;
+    word-break: keep-all;
 }
 
 .todo-list {
